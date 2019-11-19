@@ -2,7 +2,7 @@
 
 This repo demonstrates a simple linear regression algorithm in Amazon SageMaker.
 
-Its purpose is to show how to build a [custom SageMaker algorithm container](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-training-algo-dockerfile.html) from scratch that obeys the SageMaker container contract.
+Its purpose is to show how to build a [custom SageMaker algorithm container](https://docs.aws.amazon.com/sagemaker/latest/dg/your-algorithms-training-algo.html) from scratch that obeys the SageMaker container contract.
 
 It also contains some example data to simulate a SageMaker training job locally.  All the data under `ml` is simply to provide a local testing example, it is not part of the algorithm.
 
