@@ -26,6 +26,7 @@ The correct answer is 31 :)
 
 # Notes
 
+* Note that you don't need to use Python and TensorFlow to use SageMaker, this is just an example.  Your Docker container can be any framework or language as long as it obeys the SageMaker commands and loads/saves data to the correct places.
 * Note that SageMaker will deliver all hyperparameters as strings so you must convert them to integer.
 
 # Important Paths
